@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2563_색종이", "2563_색�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2960_에라토스테네스의 체", "2960_에라토스테네스의 체\2960_에라토스테네스의 체.vcxproj", "{9228AC02-23DC-43FF-9719-4BAA2741B563}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1798_수들의 합", "1798_수들의 합\1798_수들의 합.vcxproj", "{7B86194C-D8DE-4F6D-A92F-00B8B6734E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{9228AC02-23DC-43FF-9719-4BAA2741B563}.Release|x64.Build.0 = Release|x64
 		{9228AC02-23DC-43FF-9719-4BAA2741B563}.Release|x86.ActiveCfg = Release|Win32
 		{9228AC02-23DC-43FF-9719-4BAA2741B563}.Release|x86.Build.0 = Release|Win32
+		{7B86194C-D8DE-4F6D-A92F-00B8B6734E73}.Debug|x64.ActiveCfg = Debug|x64
+		{7B86194C-D8DE-4F6D-A92F-00B8B6734E73}.Debug|x64.Build.0 = Debug|x64
+		{7B86194C-D8DE-4F6D-A92F-00B8B6734E73}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B86194C-D8DE-4F6D-A92F-00B8B6734E73}.Debug|x86.Build.0 = Debug|Win32
+		{7B86194C-D8DE-4F6D-A92F-00B8B6734E73}.Release|x64.ActiveCfg = Release|x64
+		{7B86194C-D8DE-4F6D-A92F-00B8B6734E73}.Release|x64.Build.0 = Release|x64
+		{7B86194C-D8DE-4F6D-A92F-00B8B6734E73}.Release|x86.ActiveCfg = Release|Win32
+		{7B86194C-D8DE-4F6D-A92F-00B8B6734E73}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
