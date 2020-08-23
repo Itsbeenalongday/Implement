@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5576_콘테스트", "5576_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "실전코테3장_상하좌우", "실전코테3장_상하좌우\실전코테3장_상하좌우.vcxproj", "{9A03E9EA-7D58-427F-B56B-D31F7A755E13}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "실전코테3장_게임 개발", "실전코테3장_게임 개발\실전코테3장_게임 개발.vcxproj", "{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{9A03E9EA-7D58-427F-B56B-D31F7A755E13}.Release|x64.Build.0 = Release|x64
 		{9A03E9EA-7D58-427F-B56B-D31F7A755E13}.Release|x86.ActiveCfg = Release|Win32
 		{9A03E9EA-7D58-427F-B56B-D31F7A755E13}.Release|x86.Build.0 = Release|Win32
+		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Debug|x64.ActiveCfg = Debug|x64
+		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Debug|x64.Build.0 = Debug|x64
+		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Debug|x86.Build.0 = Debug|Win32
+		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Release|x64.ActiveCfg = Release|x64
+		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Release|x64.Build.0 = Release|x64
+		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Release|x86.ActiveCfg = Release|Win32
+		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
