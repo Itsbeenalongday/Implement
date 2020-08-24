@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "실전코테3장_상하좌�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "실전코테3장_게임 개발", "실전코테3장_게임 개발\실전코테3장_게임 개발.vcxproj", "{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1475_방 번호", "1475_방 번호\1475_방 번호.vcxproj", "{6F0D5269-0B8B-4CDF-BAEB-E68CEF595E5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Release|x64.Build.0 = Release|x64
 		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Release|x86.ActiveCfg = Release|Win32
 		{EEBE1A76-40E2-4591-85FE-3CBDEDC965E8}.Release|x86.Build.0 = Release|Win32
+		{6F0D5269-0B8B-4CDF-BAEB-E68CEF595E5C}.Debug|x64.ActiveCfg = Debug|x64
+		{6F0D5269-0B8B-4CDF-BAEB-E68CEF595E5C}.Debug|x64.Build.0 = Debug|x64
+		{6F0D5269-0B8B-4CDF-BAEB-E68CEF595E5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F0D5269-0B8B-4CDF-BAEB-E68CEF595E5C}.Debug|x86.Build.0 = Debug|Win32
+		{6F0D5269-0B8B-4CDF-BAEB-E68CEF595E5C}.Release|x64.ActiveCfg = Release|x64
+		{6F0D5269-0B8B-4CDF-BAEB-E68CEF595E5C}.Release|x64.Build.0 = Release|x64
+		{6F0D5269-0B8B-4CDF-BAEB-E68CEF595E5C}.Release|x86.ActiveCfg = Release|Win32
+		{6F0D5269-0B8B-4CDF-BAEB-E68CEF595E5C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
